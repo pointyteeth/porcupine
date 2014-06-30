@@ -8,3 +8,7 @@ A major drawback of the existing application is that the applications and projec
 As Github has become the primary place for coders to host projects, this new code will automatically fill up many of the projects that the user has worked on.
 
 With the new application, it will automatically use your Github id and then pull the crucial information from the user's Github account ranging from the number of their public repos, the descriptions, number of watchers and size of the repo code. 
+
+This repository contains a utility to pull information from GitHub and a site that illustrates a user's flow through the application. It is prepopulated to demonstrate its use, but the personal information fields should be pulled from LinkedIn and the project fields should be pulled from GitHub.
+
+The site can be accessed at pointyteeth.github.io/porcupine
