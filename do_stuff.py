@@ -27,5 +27,5 @@ for i in repos:
 a['total_repo_size'] = sum(z['size'] for z in a['repos'])
 a['total_repo_watchers'] = sum(z['watchers_count'] for z in a['repos'])
 
-print json.dumps(a, indent = 4)
+print json.dumps(a)
    

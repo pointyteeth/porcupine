@@ -11,6 +11,6 @@ With the new application, it will automatically use your Github id and then pull
 
 This repository contains a utility to pull information from GitHub and a site that illustrates a user's flow through the application. It is prepopulated to demonstrate its use, but the personal information fields should be pulled from LinkedIn and the project fields should be pulled from GitHub.
 
-The site can be accessed at pointyteeth.github.io/porcupine
+The script reads in from standard input a github username, and outputs a json string with the github user information.
 
 To access the website, go to php-gtsafe.rhcloud.com. It has the homepage which should "log" you into linkedin and pull some information.
